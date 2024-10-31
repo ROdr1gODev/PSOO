@@ -1,5 +1,5 @@
 # PSOO
-## Diagrama de caso de uso
+## Diagrama de casos de uso
 ![Casos de Uso](https://github.com/user-attachments/assets/73ccd19a-e7bc-47e5-9c4b-5405106fcb03)
 
 ## Diagrama de Classe
